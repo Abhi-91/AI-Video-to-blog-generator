@@ -1,0 +1,1 @@
+his AI blog generator turn YouTube videos into engaging blog posts by analyzing transcripts. Just paste the video link, and the AI creates content for you, making it easy to reach a text-based audience while boosting discoverability with SEO!
